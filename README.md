@@ -1,4 +1,4 @@
-# 🎉 Juego de **Amigo Secreto** 🎁
+# 🎉 Challenge **Amigo Secreto** 🎁
 
 ¡Bienvenid@ al juego de **Amigo Secreto**! 🎊 Este es un proyecto sencillo y divertido, ideal para organizar sorteos entre amigos, familiares o compañeros de trabajo. El juego selecciona aleatoriamente a un "amigo secreto" para cada participante. 🌟
 
