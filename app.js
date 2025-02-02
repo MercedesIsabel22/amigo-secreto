@@ -15,6 +15,7 @@ function agregarAmigo() {
         alert("Este nombre ya está en la lista.");
         return;
     }
+    
     amigos.push(nombreAmigo); 
     input.value = ""; 
     actualizarListaAmigos(); 
