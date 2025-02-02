@@ -57,4 +57,4 @@ Este proyecto está bajo la **Licencia MIT**. Si deseas usarlo, modificarlo o co
 Si tienes alguna duda o sugerencia, no dudes en contactarme. 😊
 
 - **Correo electrónico:** mercedesnaba22@gmail.com
-- **GitHub:**https://github.com/MercedesIsabel22
+- **GitHub:** https://github.com/MercedesIsabel22
