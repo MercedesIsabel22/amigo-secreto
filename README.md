@@ -33,7 +33,7 @@ Este proyecto no requiere ninguna instalación complicada. Solo necesitas:
    Si deseas tener una copia local, usa el siguiente comando para clonar el proyecto:
    
    ```bash
-   git clone [[https://github.com/MercedesIsabel22/amigo-secreto.git]
+   git clone https://github.com/MercedesIsabel22/amigo-secreto.git
 
 ## 🎬 Video Demostrativo
 [¡Mira el Video!](https://www.youtube.com/watch?v=XXEYtv4jRYw)
