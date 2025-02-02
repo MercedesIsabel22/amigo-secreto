@@ -36,7 +36,7 @@ Este proyecto no requiere ninguna instalación complicada. Solo necesitas:
    git clone [[https://github.com/MercedesIsabel22/amigo-secreto.git]
 
 ## 🎬 Video Demostrativo
-[¡Mira el Video!]()
+[¡Mira el Video!](https://www.youtube.com/watch?v=XXEYtv4jRYw)
 
 ## 📃 Licencia
 
